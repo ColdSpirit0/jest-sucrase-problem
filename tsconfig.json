@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "allowJs": true,
+        "noUnusedLocals": false,
+        "strictNullChecks": true,
+    },
+    "include": [
+        "src/**/*.ts",
+        "tests/**/*.ts",
+    ],
+}
